@@ -1,0 +1,11 @@
+{
+    "cx.server": {
+        "url": "http://localhost/",
+        "alias": "localhost",
+        "username": "jharris",
+        "password": "saC9DFS3d/04qecvGkfc0gFCg+008y6KF4HHp/s=",
+        "project_id": 10030,
+        "team_id": 3,
+        "project_name": "Goatlin"
+    }
+}
